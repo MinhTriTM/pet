@@ -1,0 +1,12 @@
+id = "hoa-long"
+name = "Hỏa Long (Crimson Fire Drake)"
+size = [200, 160]
+speed_ms = 8
+behaviors = ["idle", "wander", "dash", "breathe", "roar", "sleep", "scratch", "dive", "chase_mouse", "talk"]
+phrases = [
+    "Ngọn lửa vĩnh hằng thiêu rụi màn đêm!",
+    "Cánh lửa sải rộng rực sáng bầu trời!",
+    "ROOOAARRR! Biển lửa thức tỉnh!",
+    "Cẩn thận cháy xém tóc đấy phàm nhân!"
+]
+color = "#ff3b30"

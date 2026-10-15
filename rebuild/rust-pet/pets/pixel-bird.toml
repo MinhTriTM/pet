@@ -1,0 +1,7 @@
+id = "pixel-bird"
+name = "Pixel Bird"
+size = [128, 128]
+speed_ms = 80
+behaviors = ["wander", "bounce"]
+phrases = ["chíp chíp!", "gió trên này mát quá!"]
+color = "#ffd54a"

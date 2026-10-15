@@ -1,0 +1,1 @@
+{"behaviors": ["bounce", "wander"], "color": "#ffd54a", "id": "pixel-bird", "kind": "code", "name": "Pixel Bird", "phrases": ["chíp chíp!", "gió trên này mát quá!", "đừng thả tao gần taskbar nhé"], "size": [128, 128], "speed_ms": 80}

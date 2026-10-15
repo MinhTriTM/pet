@@ -1,0 +1,1 @@
+{"behaviors": ["bounce", "wander"], "color": "white", "id": "ghost-boo", "kind": "code", "name": "Ghost Boo", "phrases": ["boo! sợ chưa?", "tao bay chứ không đi bộ nhé", "ban đêm tao mới mạnh"], "size": [120, 130], "speed_ms": 90}

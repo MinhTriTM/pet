@@ -1,0 +1,1 @@
+{"behaviors": ["bounce", "sit_random", "wander"], "color": "#222222", "id": "mini-penguin", "kind": "code", "name": "Mini Penguin", "phrases": ["lạch bạch... lạnh quá!", "cá đâu rồi nhỉ?", "tao họ hàng với WinPenguins đấy"], "size": [120, 130], "speed_ms": 110}

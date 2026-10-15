@@ -1,0 +1,7 @@
+id = "robo-cat"
+name = "Robo Cat"
+size = [128, 128]
+speed_ms = 100
+behaviors = ["wander", "bounce", "sit_random"]
+phrases = ["bíp bíp! tao là mèo máy", "pin 99%, đi chơi tiếp!"]
+color = "#00e5ff"

@@ -1,0 +1,7 @@
+id = "mini-penguin"
+name = "Mini Penguin"
+size = [120, 130]
+speed_ms = 110
+behaviors = ["wander", "bounce", "sit_random"]
+phrases = ["lạch bạch... lạnh quá!", "cá đâu rồi nhỉ?"]
+color = "#222222"

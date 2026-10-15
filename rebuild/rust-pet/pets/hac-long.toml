@@ -1,0 +1,12 @@
+id = "hac-long"
+name = "Hắc Long (Abyssal Shadow Dragon)"
+size = [200, 160]
+speed_ms = 8
+behaviors = ["idle", "wander", "dash", "breathe", "roar", "sleep", "scratch", "dive", "chase_mouse", "talk"]
+phrases = [
+    "U minh bóng tối, lôi đình giáng lâm!",
+    "Bóng đêm nuốt trọn ánh tà dương!",
+    "Gầm thét rách toạc hư không!",
+    "Ai dám quấy rầy giấc mộng ngàn năm?"
+]
+color = "#8a2be2"

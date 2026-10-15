@@ -1,0 +1,12 @@
+id = "thanh-long"
+name = "Thanh Long (Azure Dragon)"
+size = [200, 160]
+speed_ms = 8
+behaviors = ["idle", "wander", "dash", "breathe", "roar", "sleep", "scratch", "dive", "chase_mouse", "talk"]
+phrases = [
+    "Hô phong hoán vũ, thiên hạ thái bình!",
+    "Thanh Long xuất thế, vạn mộc sinh sôi!",
+    "Long châu chiếu rọi cõi nhân gian!",
+    "Gầm vang chín tầng mây xanh!"
+]
+color = "#00e5a3"

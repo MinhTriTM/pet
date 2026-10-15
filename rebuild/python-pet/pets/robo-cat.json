@@ -1,0 +1,1 @@
+{"behaviors": ["bounce", "sit_random", "wander"], "color": "#00e5ff", "id": "robo-cat", "kind": "code", "name": "Robo Cat", "phrases": ["bíp bíp! tao là mèo máy", "pin 99%, đi chơi tiếp!", "chạm vào tao là tao kêu đấy"], "size": [128, 128], "speed_ms": 100}

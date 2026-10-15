@@ -1,0 +1,12 @@
+id = "hoang-long"
+name = "Hoàng Long (Golden Celestial Dragon)"
+size = [200, 160]
+speed_ms = 8
+behaviors = ["idle", "wander", "dash", "breathe", "roar", "sleep", "scratch", "dive", "chase_mouse", "talk"]
+phrases = [
+    "Thần uy cái thế, hoàng kim vạn trượng!",
+    "Chân long giáng thế, nhật nguyệt quy tâm!",
+    "Mây lành ngũ sắc nâng bước ta đi!",
+    "Bát phương quy phục trước uy danh!"
+]
+color = "#ffd700"

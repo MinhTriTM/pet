@@ -1,0 +1,12 @@
+id = "bang-long"
+name = "Băng Long (Frost Wyvern)"
+size = [200, 160]
+speed_ms = 8
+behaviors = ["idle", "wander", "dash", "breathe", "roar", "sleep", "scratch", "dive", "chase_mouse", "talk"]
+phrases = [
+    "Hơi thở hàn băng đóng băng vạn vật!",
+    "Bão tuyết bắc cực vâng lệnh ta!",
+    "Pha lê tuyết giá đẹp nhưng sắc lạnh!",
+    "Một cơn gió lạnh vừa lướt qua màn hình..."
+]
+color = "#5ac8fa"

@@ -1,0 +1,7 @@
+id = "ghost-boo"
+name = "Ghost Boo"
+size = [120, 130]
+speed_ms = 90
+behaviors = ["wander", "bounce"]
+phrases = ["boo! sợ chưa?", "tao bay chứ không đi bộ nhé"]
+color = "white"
